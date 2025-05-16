@@ -1,0 +1,2 @@
+Prefix plugins/InterfaceMap/example/
+Plugin InterfaceMap inputfile 07-grid/ outputfile output
